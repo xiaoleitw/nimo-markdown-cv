@@ -3,7 +3,7 @@ layout: cv
 title: Xiaolei Wang
 email: icefoxwang@gmail.com
 ---
-# Wode __Ni__
+# 王晓雷
 
 <!--
 include contact information from the front matter
@@ -16,28 +16,14 @@ Supported arguments:
 
 ## 教育背景
 
-### __Carnegie Mellon University__ `2018.9 -`
-```
-Pittsburgh, PA
-```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+### 浙江⼤学 2007-2011 本科 计算机科学与技术
+### 浙江⼤学 2007-2011 本科 竺可桢学院
+### 阿⼘卜杜拉国王科技⼤大学 2011-2013 硕⼠ 应⽤数学与计算机科学
 
-### __Columbia University__ `2016.9 - 2018.5`
-```
-New York, NY
-```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
+## 出版书籍
+### 增强人类：技术如何塑造新的现实 
+全方位阐述AR/VR技术在各领域的应用及对生活的影响  
+[[www](http://product.dangdang.com/25276240.html)]
 
 ### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
