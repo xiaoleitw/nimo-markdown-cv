@@ -21,20 +21,33 @@ Supported arguments:
 ### 阿⼘卜杜拉国王科技⼤大学 2011-2013 硕⼠ 应⽤数学与计算机科学
 
 ## 出版书籍
-### 增强人类：技术如何塑造新的现实 
+### 增强人类：技术如何塑造新的现实 (http://product.dangdang.com/25276240.html)
 全方位阐述AR/VR技术在各领域的应用及对生活的影响  
-[[www](http://product.dangdang.com/25276240.html)]
+### 工程师手册：创造力与创新导论 
+校对中，预计2019.6出版。手把手教你工业界的创新秘诀。
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+## 咨询项⽬经验
+### 某通信科技公司
+定制设计语音处理/⼝音⾃自适应引擎，为带口音的⽤户提供更精准的语⾳转⽂本体验; 
+定制设计垂直领域的⽤户画像体系，结合自然语⾔处理技术为⽤户提供智能问答服务;
+### 某智能科技公司
+设计车辆行驶过程中的各传感器信号收集系统；
+根据收集到的雷达/图像信号建造模型，辅助预测当前最优的动作决策; 
+### 某⼤型外资银⾏
+沟通客户创新需求，帮助设计产品推荐、语义匹配和搜索引擎;
+定制设计⽂本特征提取与⽤用户画像服务，⾃动为⽂档/⽤户/产品等非结构化内容生成特征；
+结合前端App的设计，实现精准推荐算法，提供更好的⽤户体验; 
+### 某地产⼴告公司
+定制化设计模型，对⼤量房地产相关图⽚进行模式识别和分类，自动为其添加标签; 
+基于图⽚片识别的结果，结合第三⽅方语义模型和知识图谱，设计推荐引擎;
+### 某金融服务机构
+梳理业务数据与服务器日志，挖掘商业价值;
+为⾮结构化数据和时间序列数据定制化设计预测算法，对任务的难度和花费的时间进行估算，提升排班系统的精度和效率;
+### 某英语考试中⼼
+• 设计语⾳转⽂本，图片转⽂本的引擎;
+• 为⽂章与标题的语义相似度、前后⽂序列的语义相似度设计模型;
+• 设计端到端的智能打分系统，对给定题目下用户产生的语⾳和⽂本在语法、词汇、扣题程度、⼝音、流利利度等进行评分。
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
 
 ## Experience
 
