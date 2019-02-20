@@ -1,10 +1,7 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
-email: woden@cs.cmu.edu
-homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+title: Xiaolei Wang
+email: icefoxwang@gmail.com
 ---
 # Wode __Ni__
 
@@ -17,7 +14,7 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-## Education
+## 教育背景
 
 ### __Carnegie Mellon University__ `2018.9 -`
 ```
