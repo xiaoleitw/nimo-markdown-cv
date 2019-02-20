@@ -5,16 +5,16 @@ email: icefoxwang@gmail.com
 phone: +86-15029261953
 ---
 # 王晓雷
-海思图灵市场管理部产品总监
-国家二级心理咨询师
+### 海思图灵市场管理部产品总监
+### 国家二级心理咨询师
 <!--
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
     - phone
-    - email、
+    - email、、{% include cv-contact.html %}
+
 -->
-{% include cv-contact.html %}
 
 
 ## 教育背景
